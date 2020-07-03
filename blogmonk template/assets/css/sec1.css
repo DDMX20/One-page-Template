@@ -1,0 +1,49 @@
+#sec1{
+  width:100%;
+
+
+
+}
+#show
+{
+   clip-path: circle(64.6% at 0 53%);
+   border: 2px solid black;
+   padding-top:20px;
+}
+.carousel-item{
+
+    width:100%;
+
+}
+
+.glass
+{
+  position:absolute;
+  top:150px;
+  right: 50px;
+  margin: auto;
+  text-align: center;
+
+}
+
+.logo
+{
+  clip-path: circle(50% at 50% 50%);
+}
+.flogo{
+  width:30px;
+}
+
+.p1
+{
+  width :400px;
+  padding: 20px 0 0 200px;
+  border-bottom: 2px solid black;
+}
+
+.number
+{
+  padding :20px;
+  margin: 20px;
+
+}

@@ -1,0 +1,44 @@
+#sec2
+{
+
+
+background:rgba(255, 255, 255, 1);
+
+}
+
+
+
+.ABOUT h1{
+  width:100%;
+  margin:auto;
+  padding-top:20px;
+  padding-bottom: 20px;
+  box-shadow: 0 0 20px 0 rgba(
+250, 42, 0,.5);
+  border-radius:0 0 100% 100%;
+  text-align: center;
+  margin-bottom: 100px;
+  clip-path: ellipse(51% 100% at 50% 2%);
+}
+
+
+.card-img-top
+{
+  width:300px;
+  height:300px;
+  box-shadow: 0 0 10px 0 rgba(250, 42, 0,.5);
+  border-radius: 10%;
+}
+
+.card{
+  width: 100%;
+margin-bottom: 100px;}
+.card:hover{
+  transition: 1s;
+  transform: translateX(-3rem) translateY(-3rem);
+}
+
+.card-text1
+{
+  text-align: center;
+}

@@ -1,0 +1,35 @@
+#sec3{
+  background-image: linear-gradient(to top right, rgba(64, 128, 255,0), rgba(64, 128, 255,1));
+  width:100%;
+
+
+}
+
+
+.card-img1{
+  position: relative;
+
+  width:150px;
+  height:150px;
+  box-shadow: 0 0 10px 0 rgba(250, 42, 0,.5);
+  border-radius: 50%;
+  background-color: white;
+  padding: 5px;
+}
+.box:hover
+{
+  transition: .5s;
+  transform:  translateY(-.5rem);
+
+}
+
+.card-text
+{
+  padding: 10px 0 0 10px;
+  margin:0px 0 0 10px;
+}
+.container1
+{
+margin: 0 25% 0 25%;
+
+}
