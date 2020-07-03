@@ -1,0 +1,19 @@
+*
+{
+  margin:0px;
+  padding:0px;
+}
+#main{
+  background-image: linear-gradient(to bottom, rgba(64, 128, 255,0), rgba(64, 128, 255,1));
+
+  font-family: 'Fjalla One', sans-serif;
+}
+
+.navbar-nav{
+  text-align: center;
+  overflow:hidden;
+}
+.nav-link
+{
+  font-size: 25px;
+}
